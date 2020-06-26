@@ -3,4 +3,4 @@
 3
 4
 5. git merging example
-6. Rebasing
+6. Rebasing, rebasing again
