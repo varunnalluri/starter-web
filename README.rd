@@ -9,6 +9,6 @@
 6. Rebasing
 7. Editing from myFeature Branch
 
-#Stashing
+#Stashing, stashing2
 >>>>>>> myFeature
 
